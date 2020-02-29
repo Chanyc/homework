@@ -1,4 +1,4 @@
-package com.gupao.cyc;
+package com.gupao.cyc.factory;
 
 public abstract class PaymentFactory {
 
